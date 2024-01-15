@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Documents/NetBeansProjects/TechBlogProject/src/java/com/techblog/servlets/UpdatePostServlet.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/TechBlogProject/web/blogUserPostDetails.jsp</file>
+            <file>file:/D:/Documents/NetBeansProjects/TechBlogProject/web/javascript/main.js</file>
+            <file>file:/D:/Documents/NetBeansProjects/TechBlogProject/web/blog-post-details.jsp</file>
+            <file>file:/D:/Documents/NetBeansProjects/TechBlogProject/src/java/com/techblog/servlets/AddPostServlet.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/TechBlogProject/src/java/com/techblog/entities/Posts.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/TechBlogProject/web/css/style.css</file>
+            <file>file:/D:/Documents/NetBeansProjects/TechBlogProject/src/java/com/techblog/servlets/EditServlet.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/TechBlogProject/web/register.jsp</file>
+            <file>file:/D:/Documents/NetBeansProjects/TechBlogProject/src/java/com/techblog/dao/UserDao.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/TechBlogProject/src/java/com/techblog/entities/Categories.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/TechBlogProject/web/navbar.jsp</file>
+            <file>file:/D:/Documents/NetBeansProjects/TechBlogProject/web/profile.jsp</file>
+            <file>file:/D:/Documents/NetBeansProjects/TechBlogProject/web/contact.jsp</file>
+            <file>file:/D:/Documents/NetBeansProjects/TechBlogProject/src/java/com/techblog/servlets/LikedServlet.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/TechBlogProject/web/myPosts.jsp</file>
+            <file>file:/D:/Documents/NetBeansProjects/TechBlogProject/src/java/com/techblog/dao/PostDao.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/TechBlogProject/web/index.jsp</file>
+            <file>file:/D:/Documents/NetBeansProjects/TechBlogProject/src/java/com/techblog/helper/ProfileSaver.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/TechBlogProject/src/java/com/techblog/dao/LikeDao.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/TechBlogProject/web/load_posts.jsp</file>
+            <file>file:/D:/Documents/NetBeansProjects/TechBlogProject/src/java/com/techblog/servlets/DeleteServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
